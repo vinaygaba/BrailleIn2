@@ -11,4 +11,6 @@ An Android application made for the visually impaired which makes their life eas
 7)Set alarm
 8)Current date and time
 
+I am not adding the code as I have received good feedback and planing to polish it more and commercialize it.
+
 
